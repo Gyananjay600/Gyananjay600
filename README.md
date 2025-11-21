@@ -11,7 +11,7 @@ I love building backend systems, exploring Java frameworks, and improving my pro
 
 ## 💡 What I Do
 
-- ☕ Develop Java applications using **Core + Advanced Java**
+- ☕ Develop Java applications using **Core + Advanced Java + Java 8 Features**
 - 🔧 Build backend logic, REST APIs, and mini-projects  
 - 🗄️ Work with **MySQL** and optimize SQL queries  
 - 🧩 Practice **DSA in Java** to improve coding efficiency  
