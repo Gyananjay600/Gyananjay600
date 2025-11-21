@@ -1,18 +1,60 @@
+# 👋 Hi, I'm Gyananjay Sahoo
 
-### 👋 About Me<br><br>Hi there! I'm **Gyananjay Sahoo**, a passionate **B.Tech 3rd-year student** with a strong interest in **Data Analysis, Artificial Intelligence, Machine Learning, and Web Development**.<br>I love transforming data into meaningful insights, building intelligent systems, and creating interactive web applications that solve real-world problems.<br><br>💡 **What I Do**<br><br>* 📊 Analyze data to uncover trends and build predictive models<br>* 🤖 Develop AI/ML projects for smart automation and decision-making<br>* 🌐 Design and build full-stack web applications with modern tools<br>* 🔍 Continuously learn and explore emerging technologies in the tech world<br><br>🛠 **Tech Stack & Tools**<br><br>* **Languages:** Python, Java, JavaScript, SQL<br>* **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, Flask, React.js<br>* **Tools:** GitHub, VS Code, Jupyter Notebook, MySQL, Power BI<br><br>🎯 **Current Focus**<br><br>* Enhancing my skills in **Machine Learning** and **Full-Stack Development**<br>* Working on hands-on projects related to **Data Analytics** and **AI-based applications**<br><br>🚀 **Goal**<br>To grow as a **Data Analyst / AI Developer**, contribute to impactful projects, and innovate using data-driven technologies.<br><br>📫 **Let’s Connect**<br>[LinkedIn](#) | [Portfolio](#) | [Email](#)<br>
+### 🎓 B.Tech 3rd Year | GIET, Ghangapatna, Bhubaneswar  
+### 💻 Java Developer Fresher | Backend Enthusiast
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gyananjay-sahoo/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/sahoo_gyananjay?t=ThvU_FeUoDzjKnRWu2kQNA&s=08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gyananjaysahoo8@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gyananjay600&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gyananjay600&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyananjay600&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm a passionate **Java Developer Fresher** currently pursuing **B.Tech 3rd year** at **GIET, Ghangapatna, Bhubaneswar**.  
+I love building backend applications, exploring Java technologies, and continuously improving my problem-solving skills.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gyananjay600&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💡 What I Do
+
+- ☕ Write clean and optimized **Java code**
+- 🧩 Develop backend logic and mini-projects
+- 🔧 Learn and work with **Spring Boot**, JDBC, and REST APIs
+- 🗄️ Use **MySQL** for database management
+- 🏗️ Practice **DSA in Java** to improve logic building
+
+---
+
+## 🛠 Tech Stack & Tools
+
+**Languages:**  
+`Java` • `SQL` • `JavaScript` • `Python (basic)`
+
+**Frameworks & Tools:**  
+`Spring Boot (Learning)` • `JDBC` • `Servlets` • `MySQL` • `Git & GitHub`  
+`IntelliJ IDEA` • `VS Code`
+
+**Core Skills:**  
+`OOP` • `Collections Framework` • `Exception Handling`  
+`Multithreading` • `DSA (Arrays, LinkedLists, Trees, etc.)`
+
+---
+
+## 🎯 Current Focus
+
+- Learning **Advanced Java** & **Spring Boot**
+- Building backend projects like REST APIs & management systems
+- Strengthening **DSA in Java**
+- Preparing for internships and entry-level developer roles
+
+---
+
+## 🚀 Career Goal
+
+To grow as a **Java Backend Developer**, build real-world scalable applications,  
+and work on impactful software development projects.
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/gyananjay-sahoo](https://www.linkedin.com/in/gyananjay-sahoo/)  
+- **Email:** gyananjaysahoo8@gmail.com  
+- **GitHub:** *Add your GitHub profile link here*
+
+---
+
+⭐ *Feel free to explore my repositories and projects!*  
