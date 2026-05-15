@@ -1,72 +1,58 @@
-# 👋 Hi, I'm Gyananjay Sahoo
+<div align="center">
 
-### 🎓 B.Tech Final Year | GIET, Ghangapatna, Bhubaneswar  
-### 💻 Java Developer Fresher | Backend Enthusiast  
-### 🔥 Aspiring Software Developer
+# Gyananjay Sahoo
 
-I'm a passionate **Java Developer Fresher** currently pursuing my **B.Tech Final Year at GIET, Ghangapatna, Bhubaneswar**.  
-I love building backend systems, exploring Java frameworks, and improving my problem-solving abilities through Data Structures & Algorithms.
+**Java Backend Developer · B.Tech Final Year · GIET, Bhubaneswar**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyananjay-sahoo/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Gyananjay600)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gyananjaysahoo8@gmail.com)
 
----
-
-## 💡 What I Do
-
-- ☕ Develop Java applications using **Core + Advanced Java + Java 8 Features**
-- 🔧 Build backend logic, REST APIs, and mini-projects  
-- 🗄️ Work with **MySQL** and optimize SQL queries  
-- 🧩 Practice **DSA in Java** to improve coding efficiency  
-- 🚀 Explore **Spring Boot** and modern backend development
+</div>
 
 ---
 
-## 🛠 Tech Stack & Tools
+## About
 
-**Languages:**  
-`Java` • `SQL` • `JavaScript` • `Python (Basic)`
+I'm a final-year B.Tech student specializing in Java backend development. My focus is on building clean, efficient server-side systems — from REST APIs to database-driven applications. I'm actively preparing for full-time roles as a Java / Backend Developer.
 
-**Frameworks & Tools:**  
-`Spring Boot (Learning)` • `JDBC` • `Servlets` • `MySQL`  
-`Git & GitHub` • `IntelliJ IDEA` • `VS Code`
-
-**Core Skills:**  
-`OOP` • `Collections Framework` • `Exception Handling`  
-`Multithreading` • `DSA (Arrays, Linked Lists, Trees, etc.)`
+Currently deepening my expertise in **Spring Boot**, refining my **DSA** skills for technical interviews, and building projects that reflect real-world engineering practices.
 
 ---
 
-## 🎯 Current Focus
+## Technical Skills
 
-- Mastering **Spring Boot** & **Java Backend Development**  
-- Building real-world projects (REST APIs, management systems, dashboards)  
-- Improving DSA for coding rounds and internships  
-- Preparing for **Java Developer + Backend Developer roles**  
+**Languages**
+`Java` `SQL` `JavaScript` `Python`
 
----
+**Backend & Frameworks**
+`Spring Boot` `JDBC` `Servlets` `REST APIs`
 
-## 🚀 Goal
+**Database**
+`MySQL`
 
-To become a skilled **Java Backend Developer**, contribute to real-world software solutions, and grow into a strong developer with modern Java technologies.
+**Core Concepts**
+`OOP` `Collections Framework` `Multithreading` `Exception Handling` `Data Structures & Algorithms`
 
----
-
-## 📫 Connect With Me
-
-- **GitHub:** https://github.com/Gyananjay600  
-- **LinkedIn:** https://www.linkedin.com/in/gyananjay-sahoo/  
-- **Email:** gyananjaysahoo8@gmail.com  
+**Tools & Platforms**
+`Git & GitHub` `IntelliJ IDEA` `VS Code`
 
 ---
 
-## ⭐ GitHub Stats
+## Currently Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gyananjay600&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gyananjay600&theme=tokyonight" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyananjay600&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+- Building **MVC-based web applications** with Spring Boot — controllers, service layers, REST APIs
+- Integrating **Spring Data JPA + Hibernate** for ORM, entity mapping, and database operations
+- Using **Lombok** to write cleaner, boilerplate-free Java code
+- Exploring **Spring Security** basics — authentication, authorization, and session management
+- Experimenting with **AI API integration** (OpenAI / Gemini) into Java backend services
+- Sharpening **DSA** in Java — Trees, Graphs, Dynamic Programming for interview prep
 
 ---
 
-⭐ *Thanks for visiting my profile! Check out my repositories for more projects.*  
+## Let's Connect
+
+I'm open to **internships**, **entry-level roles**, and **collaborative projects** in Java/Backend development.
+
+📧 [gyananjaysahoo8@gmail.com](mailto:gyananjaysahoo8@gmail.com)  
+💼 [linkedin.com/in/gyananjay-sahoo](https://www.linkedin.com/in/gyananjay-sahoo/)  
+🐙 [github.com/Gyananjay600](https://github.com/Gyananjay600)
