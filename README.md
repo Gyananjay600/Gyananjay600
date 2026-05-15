@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Gyananjay Sahoo
 
-### 🎓 B.Tech 3rd Year | GIET, Ghangapatna, Bhubaneswar  
+### 🎓 B.Tech Final Year | GIET, Ghangapatna, Bhubaneswar  
 ### 💻 Java Developer Fresher | Backend Enthusiast  
 ### 🔥 Aspiring Software Developer
 
-I'm a passionate **Java Developer Fresher** currently pursuing my **B.Tech 3rd Year at GIET, Ghangapatna, Bhubaneswar**.  
+I'm a passionate **Java Developer Fresher** currently pursuing my **B.Tech Final Year at GIET, Ghangapatna, Bhubaneswar**.  
 I love building backend systems, exploring Java frameworks, and improving my problem-solving abilities through Data Structures & Algorithms.
 
 ---
